@@ -42,9 +42,12 @@ Non-inverting amplifier:
 <img width="459" height="341" alt="image" src="https://github.com/user-attachments/assets/d7c90647-e012-4cef-978c-6ab6e9509d90" />
 
 ## TABULATION:
+![EXP 2 T IC](https://github.com/user-attachments/assets/4f725ca3-e5da-49d1-b4d8-68d3e2c6079d)
 
 
 ## GRAPH:
+![EXP 2 IC](https://github.com/user-attachments/assets/f5f7cd5e-3e1b-41a7-b6b9-07f8fccf9e13)
 
 
 ## RESULT:
+Thus the Non iverting amplifier is designed and their performance was successfully tested usind OP-AMP  IC741
